@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(135, 197, 218);
+  }
+  
+  h1 {
+    background-color: rgb(215, 25, 50);
+    text-align: center;
+  }
+  
+  .div {
+    background-color: lightblue;
+  }
+  
+  p {
+    background-color: yellow;
+  }
+  
+  
+  input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: #3CBC8D;
+    color: rgb(30, 150, 24);
+  }
